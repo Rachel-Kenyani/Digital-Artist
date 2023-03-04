@@ -1,0 +1,190 @@
+body{
+    background-color: #f3ebf3;
+}
+nav{
+    padding: 2cm;
+    list-style: none;
+    display: flex;
+}
+#top{
+    text-decoration: none;
+    color: black;
+}
+#about{
+    font-size: large;
+}
+#how{
+    position: absolute;
+    padding-left: 5cm;
+    font-size: large;
+}
+#price{
+    position: absolute;
+    padding-left: 11cm;
+    font-size: large;
+
+}
+#faq{
+    position: absolute;
+    padding-left: 16cm;
+}
+#artisan{
+    font-size: xx-large;
+    position: absolute;
+    top: 48px;
+    padding-left: 20cm;
+    font-size: xx-large;
+}
+#blogs{
+   position: absolute;
+   top: 82px ;
+   left:29cm ;
+   font-size: large;
+   text-decoration: none;
+   color: black;
+}
+#contacts{
+    position: absolute;
+    top: 82px;
+    left: 36cm;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+}
+#login{
+    position: absolute;
+    top: 82px;
+    right: 2cm;
+    font-size: large;
+    border-radius: 10px;
+    padding: 4px 14px;
+    background-color: black;
+    color: white;
+
+}
+#hr1{
+    position: absolute;
+    top: 125px;
+    left:82px ;
+    padding-right: 42cm;
+}
+#heading{
+    font-size: 80px;
+    position: absolute;
+    left: 2cm;
+}
+#hr2{
+    position: absolute;
+    top: 14cm;
+    left: 82px;
+    right: 28cm ;
+}
+#black{
+    position: absolute;
+    top:16cm ;
+    width: 10%;
+    border-radius: 60%;
+
+}
+#brown{
+    position: absolute;
+    top:16cm ;
+    left:130px ;
+    width: 10%;
+    border-radius: 60%;
+}
+#white{
+    position: absolute;
+    top:16cm ;
+    left:250px;
+    width: 10%;
+    border-radius: 60%;
+}
+#join{
+    position: absolute;
+    top: 16cm;
+    left: 470px;
+    font-size: x-large;
+}
+#get{
+    position: absolute;
+    top: 25cm;
+    left: 2cm;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: large;
+    background-color: rgb(235, 27, 235);
+}
+#major{
+    position: absolute;
+    height: 39cm;
+    left: 24cm;
+    border-radius: 24px;
+}
+#minor{
+    position: absolute;
+    width: 40%;
+    left: 1.5cm;
+    top: 2cm;
+    border-radius: 24px;
+ }
+
+#text{
+    position: absolute;
+    top: 3.9cm; 
+    left: 11cm;
+    font-size: large;
+}
+.last{
+    background-color: rgb(251, 226, 251);
+    position: absolute;
+    top: 29cm;
+    left: 2cm;
+    padding-top: 8cm;
+    padding-bottom: 7cm;
+    padding-left: 8cm;
+    padding-right: 13cm;    
+}
+.last:before{
+    content:'';
+    position: absolute;
+    top: 0px;
+    right:0cm;
+    border-top: 70px solid #f3ebf3;
+    border-left: 70px solid rgb(251,226,251);
+    width: 0px;
+}
+#facebook{
+    position: absolute;
+    top: 8cm;
+    left: 10cm; 
+    border-radius: 10px;
+    padding: 4px 12px;
+    background-color: rgb(251,226,251);
+}
+#twitter{
+    position: absolute;
+    left: 14cm;
+    border-radius: 10px;
+    padding: 4px 12px;
+    background-color: rgb(251,226,251);
+}
+#instagram{
+    position: absolute;
+    left: 17.5cm;
+    border-radius: 10px;
+    padding: 4px 12px;
+    background-color: rgb(251,226,251);
+}
+#hr3{
+    position: absolute;
+    top: 46cm;
+    left: 2cm;
+    right: 0.5px;
+
+}
+#space{
+    padding-bottom: 50cm;
+}
+
+
